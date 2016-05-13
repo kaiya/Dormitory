@@ -1,0 +1,17 @@
+#content{
+	margin-top:20px;
+	margin-left:20px;
+}
+.list-group-item{
+	margin:10px 10px 10px 10px;
+}
+#titles{
+	float:left;
+}
+#help{
+	float:right;
+	margin-right:20px;
+}
+#newscontent{
+	float:right;
+}

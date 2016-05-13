@@ -1,0 +1,28 @@
+body {
+	positon: relative;
+	text-align: center;
+}
+
+#username {
+	width: 350px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#password {
+	width: 350px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+#buttons {
+	margin: 0 auto;
+}
+
+#selectpicker {
+	width: 350px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
